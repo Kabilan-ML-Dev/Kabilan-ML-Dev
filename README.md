@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there 👋, I'm Kabilan</h1>
-<h3 align="center">🚀 Final Year Machine Learning Student | Passionate about AI, Cloud ML, and Data Science</h3>
+<h3 align="center">🚀 Final Year Computer Science And Engineering(Artificial Intelligence And Machine Learning) Student | Passionate about AI, Cloud ML, and Data Science</h3>
 
 <!-- Animated GIF -->
 <p align="center">
@@ -94,5 +94,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Coding" />
+  <img src="https://media1.tenor.com/m/Ho0ZextTZJEAAAAd/ai-digital.gif" width="200" alt="Coding" />
 </p>

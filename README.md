@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-🎓 I'm currently pursuing my final year of **Bachelor’s in Machine Learning Engineering**  
+🎓 I'm currently pursuing my final year of **Bachelor’s Computer Science And Engineering(Artificial Intelligence And Machine Learning)**  
 📊 I love turning **data into insights** with intelligent systems  
 🧑‍💻 Currently working on **Cloud-based ML & Edge AI projects**  
 🌐 Exploring MLOps and deployment using **AWS, Azure, and GCP**  

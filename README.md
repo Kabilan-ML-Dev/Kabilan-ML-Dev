@@ -64,10 +64,12 @@
 
 ## 🔭 What I'm Working On
 
-- 🛰️ **ML model for Chandrayaan-2 IIRS data classification**  
-- ☁️ **Deploying scalable ML models using AWS SageMaker and Azure ML**  
-- 🧠 **Deep Neural Networks for emotion analytics and perception modeling**  
-- 🛠️ **Building end-to-end ML pipelines using CI/CD tools**
+- 🧠 **Developing Deep Learning models for real-world applications**  
+- 🤖 **Building and refining Machine Learning pipelines**  
+- 📊 **Performing Data Analytics to extract insights from structured and unstructured data**  
+- 🛠️ **Experimenting with model optimization and deployment using Cloud & Edge platforms**
+
+
 
 ---
 
